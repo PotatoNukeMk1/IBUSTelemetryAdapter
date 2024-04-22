@@ -7,8 +7,8 @@ The adapter is powered by the receiver. Be sure the BEC voltage of your ESC is n
  
 ### What you need:
 
-* [Adafruit Qt Py M0](https://www.adafruit.com/product/4600) (Seeed Studio XIAO SAMD21 maybe also work but don't fits into the case)
-* 3pin DuPont connector and cable or precrimped servo cable
+* [Adafruit Qt Py M0](https://www.adafruit.com/product/4600)
+* 2x 3pin DuPont connector and cable or precrimped servo cable
 * Shrink tube 15mm
 * 1k ohm resistor
 * 1N4142 diode
@@ -35,6 +35,11 @@ The adapter is powered by the receiver. Be sure the BEC voltage of your ESC is n
 ### Dont works with:
 
 * XeRun XR10 Stock Spec (No real time data on programming port!)
+
+
+## Flash firmware
+
+Connect adapter to your PC. Press reset twice to start USB flashing mode. Then copy the file to the drive that just appeared.
 
 
 ## Credits
