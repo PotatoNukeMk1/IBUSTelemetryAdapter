@@ -40,6 +40,7 @@ The adapter is powered by the receiver. Be sure the BEC voltage of your ESC is n
 ## Build instructions
 
 ![schematic](https://github.com/user-attachments/assets/3263b8b1-3788-4ecf-833a-0b9eef1b962b)
+
 Diode is to prevent backpowering to ESC if board is connected to USB.
 Resistor is necessary for the half duplex protocol using single line serial.
 
