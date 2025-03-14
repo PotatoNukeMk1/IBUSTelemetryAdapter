@@ -7,7 +7,7 @@ The adapter is powered by the receiver. Be sure the BEC voltage of your ESC is n
  
 ### What you need:
 
-* [Adafruit Qt Py M0](https://www.adafruit.com/product/4600)
+* [Adafruit Qt Py M0](https://www.adafruit.com/product/4600) (Seeed Studio XIAO SAMD21 maybe also work)
 * 2x 3pin DuPont connector and cable or precrimped servo cable
 * Shrink tube 15mm
 * 1k ohm resistor
@@ -35,6 +35,7 @@ The adapter is powered by the receiver. Be sure the BEC voltage of your ESC is n
 ### Dont works with:
 
 * XeRun XR10 Stock Spec (No real time data on programming port!)
+* XeRun XR10 Pro G2 (No real time data on programming port!)
 
 
 ## Build instructions
